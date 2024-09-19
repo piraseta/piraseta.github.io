@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://piraseta.github.io/sitemap.html.gz
+Sitemap: https://piraseta.github.io/app/sitemap.html.gz
+Sitemap: https://piraseta.github.io/assets/sitemap.html.gz
+Sitemap: https://piraseta.github.io/css/sitemap.html.gz
+Sitemap: https://piraseta.github.io/data/sitemap.html.gz
+Sitemap: https://piraseta.github.io/includes/sitemap.html.gz
+Sitemap: https://piraseta.github.io/item/sitemap.html.gz
+Sitemap: https://piraseta.github.io/src/sitemap.html.gz
